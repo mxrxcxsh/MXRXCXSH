@@ -1,4 +1,5 @@
 ## Hi there 👋
+Junior Full-stack Developer focused on building responsive and interactive web applications with React. Proficient in TypeScript, React.js, Next.js, REST API,  JavaScript(ES6+), HTML5, and CSS3. Effectively use AI tools (GitHub Copilot, ChatGPT) for deep code refactoring. Currently expanding the technical stack toward the Backend (Node.js)
 
 <!--
 **mxrxcxsh/MXRXCXSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
